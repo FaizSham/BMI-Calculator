@@ -22,4 +22,4 @@ The body mass index (BMI) is a value derived from the mass (weight) and height o
 - Plug-in Required:
   .jar,
   firebase-core,
-  firebase-auth
+  firebase-auth.
