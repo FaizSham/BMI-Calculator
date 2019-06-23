@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI CALCULATOR
 BMI Calculator for Mobile App subject.
 
 # INTRODUCTION
