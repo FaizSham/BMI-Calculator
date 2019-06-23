@@ -15,7 +15,11 @@ The body mass index (BMI) is a value derived from the mass (weight) and height o
 # LIBRARIES / EXTERNAL API's
 - Firebase API:
   Act as a Realtime Database to store user's information. Easily sync and store data in realtime.
+- Google Service API:
+  Connect the app with internet.
   
 # DEVELOPMENT
 - Plug-in Required:
   .jar
+  firebase-core
+  firebase-auth
